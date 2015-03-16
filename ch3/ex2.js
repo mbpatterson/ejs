@@ -1,3 +1,6 @@
+//Define a recursive function isEven that accepts a number parameter and returns a Boolean
+
+
 function isEven(number) {
   if (number === 0) {
     return true;
